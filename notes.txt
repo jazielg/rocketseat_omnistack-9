@@ -1,0 +1,32 @@
+REQUERIMENTOS:
+Nodejs
+Yarn
+Insomnia
+
+EXTENSÕES VSCODE:
+Dracula Official
+Material Icon Theme
+
+FONTE VSCODE:
+Fira Code
+
+EXTENSÕES CHROME:
+JSON Viewer
+
+COMANDOS YARN
+yarn init -y
+yarn add express
+yarn add nodemon -D
+yarn add mongoose
+yarn dev
+yarn add multer // Para adicionar imagens multipart form
+
+// Conta no mongodb atlas
+
+// Teste Porta
+http://portquiz.net:27017/
+
+// Install FrontEnd
+yarn create react-app frontend
+
+yarn add axios
