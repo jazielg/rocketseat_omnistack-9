@@ -16,17 +16,23 @@ JSON Viewer
 COMANDOS YARN
 yarn init -y
 yarn add express
-yarn add nodemon -D
-yarn add mongoose
+yarn add nodemon -D // Somente em ambiente de desenvolvimento
 yarn dev
 yarn add multer // Para adicionar imagens multipart form
 
-// Conta no mongodb atlas
+// Conta no mongodb atlas para banco de dados https://www.mongodb.com/cloud/atlas
 
 // Teste Porta
 http://portquiz.net:27017/
 
-// Install FrontEnd
+// Init FrontEnd
 yarn create react-app frontend
 
-yarn add axios
+// Install Expo
+npm install -g expo-cli
+
+// Init Mobile
+expo init mobile
+
+// Navegação dentro do React native
+yarn add react-navigation
