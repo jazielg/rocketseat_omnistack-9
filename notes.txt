@@ -21,6 +21,7 @@ yarn dev
 yarn add multer // Para adicionar imagens multipart form
 
 // Conta no mongodb atlas para banco de dados https://www.mongodb.com/cloud/atlas
+// Configurar conexão com o banco em : backend/src/server.js
 
 // Teste Porta
 http://portquiz.net:27017/
@@ -36,3 +37,14 @@ expo init mobile
 
 // Navegação dentro do React native
 yarn add react-navigation
+
+
+// VIDEO 5 - SOCKET
+cd backend
+yarn add socket.io
+
+cd frontend
+yarn add socket.io-client
+
+cd mobile
+yarn add socket.io-client
