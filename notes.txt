@@ -1,3 +1,9 @@
+Video 1: https://www.youtube.com/watch?v=BPPWQNz2jPA
+Video 2: https://www.youtube.com/watch?v=7gu8S-plpbM
+Video 3: https://www.youtube.com/watch?v=rQ7sXNHFHuQ
+Video 4: https://www.youtube.com/watch?v=XOo78SleEVQ
+Video 5: https://www.youtube.com/watch?v=Bp70WPS7Ixg
+
 REQUERIMENTOS:
 Nodejs
 Yarn
